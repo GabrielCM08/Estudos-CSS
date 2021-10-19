@@ -1,0 +1,7 @@
+ctrl + : = comentar
+ctrl + shift + alt + (seta) = copia para baixo
+ctrl +  alt + (seta) = move para baixo
+
+
+p.exemplo = cria tag com class
+span = texto concatenado
